@@ -1,0 +1,7 @@
+Move x, 10
+Move y, 20
+If x &amplt&amplt y Add x, y
+If x &ampgt y &ampamp x &amplt 20 Sub x, y
+Console.WriteLie($&ampquotValeur de x : {x}; Valeur de y {y}&ampquot)
+Store 30
+

@@ -1,0 +1,118 @@
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Lab 5\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+K:\Formation\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+K:\Formation\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Asse\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Asse\C#\Etudiants\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Récup Bobo\C#\Etudiants\MTDSI 2010-2011\Souche 51\FileEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Cours\C#\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+D:\Cours\C#\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csprojAssemblyReference.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.cache
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Cours\C#\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+F:\D160GoRecup\2019\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+F:\D160GoRecup\2019\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csprojAssemblyReference.cache
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.cache
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+F:\D160GoRecup\2019\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+D:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+D:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csprojAssemblyReference.cache
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.cache
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+D:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.cache
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CopyComplete
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
+C:\Cours\C#\2021\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CopyComplete
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Users\DELL\Desktop\Souche 51\FileEditor\obj\x86\Debug\FileEditor.pdb
